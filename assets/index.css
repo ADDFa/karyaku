@@ -1,0 +1,30 @@
+#content,
+#form {
+    margin: 4rem 1rem;
+    display: none;
+}
+
+#form input {
+    display: block;
+    width: 100%;
+}
+
+#form button {
+    background-color: pink;
+}
+
+body {
+    font-size: 11px;
+}
+
+.w-fit {
+    max-width: fit-content;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.indent-2 {
+    text-indent: 2rem;
+}
